@@ -1,0 +1,6 @@
+2019-01-30 14:47:10,015 INFO  [main] Data received successfully: [[3.0, 2.0, 4.0], [4324.0, 2123.0, 12312.0], [3.0, 2.0, 21.0]]
+2019-01-30 14:47:10,016 DEBUG  [main] Debugging was successful!
+2019-01-30 15:06:40,988 INFO  [main] Data received successfully: [[3.0, 2.0, 4.0], [4324.0, 2123.0, 12312.0], [3.0, 2.0, 21.0]]
+2019-01-30 15:06:40,989 DEBUG  [main] Debugging was successful!
+2019-01-30 15:23:43,254 INFO  [main] Data received successfully: [[3.0, 2.0, 4.0], [4324.0, 2123.0, 12312.0], [3.0, 2.0, 21.0]]
+2019-01-30 15:23:43,255 DEBUG  [main] Debugging was successful!
